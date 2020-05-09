@@ -1,5 +1,5 @@
 /*****************************************
- * scienitficnotation.c                  *
+ * scientificnotation.c                  *
  *---------------------------------------*
  *    A program to change number into    *
  *    scientific notation.               *
